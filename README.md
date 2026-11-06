@@ -1,4 +1,5 @@
 Hey, I'm Gianka! 👋
+
 Technical Support Engineer | Computer Engineering Student | FPV Pilot & Maker
 
 🧠 About Me
