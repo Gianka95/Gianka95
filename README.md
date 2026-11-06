@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey, I'm Gianka! 👋
+Technical Support Engineer | Computer Engineering Student | FPV Pilot & Maker
 
-<!--
-**Gianka95/Gianka95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me
 
-Here are some ideas to get you started:
+Studying Computer Engineering, specializing in Intelligent Systems and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies & Interests
+
+ESP32 · Arduino · C/C++ · Java · Raspberry Pi Pico · FPV
+
+🚀 My Projects
+
+K3 Smart Desk Assistant · FPV Drone Development · Embedded Electronics Lab
